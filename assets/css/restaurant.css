@@ -342,11 +342,11 @@ a:hover {
 }
 
 .menu-nav a{
-  padding: 0 30px;
+  padding: 0 10px;
 }
 
 .menu-nav li {
-  padding:0 30px;
+  padding:0 15px;
 }
 
 .active {
@@ -900,7 +900,7 @@ footer h3 {
     width: 100%;
     display: none;
     background-color: #6abebf;
-    padding: 20px 30px;
+    padding: 20px 10px;
   }
 
 
